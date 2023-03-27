@@ -1,0 +1,36 @@
+mat-expansion-panel-header {
+    border: 1px solid gray;
+}
+
+mat-panel-description {
+    justify-content: space-between;
+    align-items: center;
+}
+
+mat-panel-description div {
+    display: flex;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.member {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 0 10px 0 24px;
+    border: 1px solid gray;
+}
+
+.icon {
+    margin-top: 10px;
+}
+
+mat-form-field {
+    height: 44px;
+}
