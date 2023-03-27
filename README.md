@@ -9,14 +9,7 @@
 
   <p align="center">
     Automated Smart Contracts Generation
-    <br />
-     
-    <br />
-    <br />
-    ·
- 
-    ·
-     
+   
   </p>
 </div>
 
