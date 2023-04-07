@@ -13,14 +13,10 @@
   </p>
 </div>
 
- 
+ ## This project detects the OSPF among multiple nodes. OSPF is a protocol used in IP routing
 
 ## Built with:
-* Angular
+* Python
 
-Running the Project:
-
-* Open   terminal/console
-* cd into Contract Builder App
-* run npm install
-* Run the project with ng serve --open
+ 
+ 
